@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.app-container {
+    width: 1120px;
+    margin: 48px auto 150px auto;
+}
+
+body {
+    background-color: #131416;
+}
